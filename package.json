@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Robot Interface code assignment for Devoteam",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "Erik Gullberg",
+  "license": "ISC",
+  "type": "module"
+}
