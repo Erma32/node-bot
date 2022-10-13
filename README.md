@@ -17,7 +17,7 @@ npm install
 `
 ### 3. Ready to go!
 
-### Run Script
+### Run main program
 `node index.js`
 
 ### Run Tests
